@@ -1,4 +1,4 @@
-![Logo](./logo.png)
+<!-- ![Logo](./logo.png)
 
 # Cassiano Castro
 
@@ -18,7 +18,15 @@ int main(const int argc, const char** argv)
 }
 ```
 
-[development.castro@gmail.com](mailto:development.castro@gmail.com)
+[development.castro@gmail.com](mailto:development.castro@gmail.com) -->
+
+
+
+![Logo](./Captura%20de%20tela%20de%202024-04-15%2017-34-15.png)
+
+
+
+
 
 <!-- ### Hi there 👋 -->
 <!--
